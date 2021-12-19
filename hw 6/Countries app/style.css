@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(228, 241, 205);
+}
+#searchbar{
+    margin-left: 2%;
+    padding:15px;
+    border-radius: 10px;
+  }
+
+#CountryPage{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+
+}
